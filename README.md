@@ -1,0 +1,2 @@
+# QnAutoTest
+该repo主要涵盖web和Android平台自动化
